@@ -14,7 +14,7 @@ namespace LearningGitBranching
 
             //we are on the develop branch
 
-            //on the newFeature branch
+            //removed this because th newFeature branch is deleted
         }
     }
 }
