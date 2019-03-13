@@ -11,6 +11,8 @@ namespace LearningGitBranching
         static void Main(string[] args)
         {
             //add in a new line after initial commit statement again
+
+            //we are on the develop branch
         }
     }
 }
